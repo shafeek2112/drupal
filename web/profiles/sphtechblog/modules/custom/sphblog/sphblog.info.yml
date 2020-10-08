@@ -1,0 +1,8 @@
+name: 'SPH Default content export'
+type: module
+description: 'SPH Default content export'
+package: Web services
+# core: 8.x
+dependencies:
+  - default_content 
+core: '8.x'
